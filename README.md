@@ -28,7 +28,7 @@ Throughout the course, I worked with:
 
 ### 🏆 Featured Project
 
-**🐱 Cat Bar — Interactive Web Game**
+**🐱 Cat Bar — Interactive Web Game** (https://github.com/serial-milk/cat-bar.git)
 
 An interactive cat-themed bar website/game created during my Java Developer course.
 
